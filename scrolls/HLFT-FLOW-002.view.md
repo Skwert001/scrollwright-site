@@ -4,7 +4,7 @@
 **Author: Matthew William Reams**  
 **Identity Key: REAMS-CORE-001**  
 **Scroll Type: Core Collapse Law – Terrain Curvature Dynamics**  
-**SHA256 Placeholder: [To be generated upon GitHub deployment]**  
+**SHA256 Placeholder: [195011f6e568cbfc8ebe86e7421af8191e1d1acc10d85d1356878cf0bfdfa6]**  
 **Version: v1.0.0**  
 **Date: July 29, 2025**  
 **Summary**  
