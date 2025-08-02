@@ -4,7 +4,7 @@
 **Author: Matthew William Reams**  
 **Identity Key: REAMS-CORE-001**  
 **Scroll Type: Core Collapse Law – Symbolic Cognition Domain**  
-**SHA256 Placeholder: [To be generated upon GitHub deployment]**  
+**SHA256 Placeholder: [0a21b56cf7691af014633d326f1d067599e133f6fbdcf65bd602fb517a97740]**  
 **Version: v1.0.0**  
 **Date: July 29, 2025**  
 **Summary**  
