@@ -4,7 +4,7 @@
 **Author: Matthew William Reams**  
 **Identity Key: REAMS-CORE-001**  
 **Scroll Type: Core Collapse Law – Geometric Foundation**  
-**SHA256 Placeholder: [To be generated upon GitHub deployment]**  
+**SHA256 Placeholder: [b241c9f5ff5fb4fbe32754d1f220d72f4ba6731ff5c61bcacd03c5c6f9932d1]**  
 **Version: v1.0.0**  
 **Date: July 29, 2025**  
 **Summary**  
