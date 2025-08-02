@@ -4,7 +4,7 @@
 **Author: Matthew William Reams**  
 **Identity Key: REAMS-CORE-001**  
 **Scroll Type: Core Collapse Law – Category Theory Mapping**  
-**SHA256 Placeholder: [48dc1904625540c15cbc4feb345179e1c6b6bc2bda210a11d818e351dbbd6c64]**  
+**SHA256 Placeholder: [86ac360f0e22c18d08754f437092c8c45fd12ee2eb9545f141f7344fb93]**  
 **Version: v1.0.0**  
 **Date: July 29, 2025**  
 **Summary**  
