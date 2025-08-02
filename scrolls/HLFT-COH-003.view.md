@@ -4,7 +4,7 @@
 **Author: Matthew William Reams**  
 **Identity Key: REAMS-CORE-001**  
 **Scroll Type: Core Collapse Law – Coherence Field Modeling**  
-**SHA256 Placeholder: [195011f6e568cbfc8ebe86e7421af8191e1d1acc10d85d1356878cf0bfdfa6]**  
+**SHA256 Placeholder: [b241c9f5ff5fb4fbe32754d1f220d72f4ba6731ff5c61bcacd03c5c6f9932d1]**  
 **Version: v1.0.0**  
 **Date: July 29, 2025**  
 **Summary**  
